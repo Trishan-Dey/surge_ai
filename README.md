@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Surge.AI
 
-## Getting Started
+Think. Build. Evolve.
 
-First, run the development server:
+Surge.AI is a project I'm building to create my own AI assistant experience.
 
-```bash
+The idea came from wanting more than a regular chatbot. I wanted to bring different AI providers into one place, build an interface that I could shape myself, and have control over how the overall experience works.
+
+It's an ongoing project, and I've been working on it across different parts of development, from the interface and user experience to exploring AI integrations.
+
+About this repository
+
+This repository contains the web project for Surge.AI, built with Next.js.
+
+It is part of the larger Surge.AI project, where I'm developing the web experience and working on its design, animations and frontend functionality.
+
+Tech Stack
+
+Here's what I'm currently using:
+
+- Next.js 16 – Web framework
+- React 19 – Building the interface
+- TypeScript – Application development
+- Tailwind CSS 4 – Styling
+- Three.js – 3D graphics
+- React Three Fiber & Drei – Working with 3D elements in React
+- GSAP – Animations
+- Lenis – Smooth scrolling
+
+Running locally
+
+Want to explore the project or run it locally? Here's how.
+
+1. Clone the repository
+
+git clone https://github.com/Trishan-Dey/surge_ai.git
+
+2. Navigate to the project
+
+cd surge_ai
+
+3. Install dependencies
+
+npm install
+
+4. Start the development server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open "http://localhost:3000" (http://localhost:3000) to view the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Development
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Surge.AI is still under development. I'm continuously working on it, experimenting with different approaches, improving existing parts and figuring out how to bring the ideas behind the project together.
 
-## Learn More
+Things will change as development progresses, and not every planned feature is available yet.
 
-To learn more about Next.js, take a look at the following resources:
+Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Trishan Dey
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- GitHub: "@Trishan-Dey" (https://github.com/Trishan-Dey)
+- Project: "Surge.AI" (https://github.com/Trishan-Dey/surge_ai)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Surge.AI — Think. Build. Evolve.
